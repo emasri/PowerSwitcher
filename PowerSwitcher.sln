@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerSwitcher", "PowerSwitcher\PowerSwitcher.csproj", "{D07F420C-CFB7-4D83-8399-9CD928CCE0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07F420C-CFB7-4D83-8399-9CD928CCE0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07F420C-CFB7-4D83-8399-9CD928CCE0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07F420C-CFB7-4D83-8399-9CD928CCE0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07F420C-CFB7-4D83-8399-9CD928CCE0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5B4941-32FE-4D1B-B1D2-B951E88BBF52}
+	EndGlobalSection
+EndGlobal
